@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Hayel99
 - 👀 I’m interested in ...Flutter and Front-End Design
-- 🌱 I’m currently learning ..Flitter and Front-End Design .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - E-mail:hayelalhlayeel7766@gmail.com
